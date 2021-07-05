@@ -1,7 +1,7 @@
 # Basic Config (For all bots)
 pythonCommand = "python" # If you have the python command set to something else such as python3
-userToken = ['"NTk4NjcwODY1MjAyMTUxNDI1.YN0BXA.SxuRRqPKKqcrVO7cqXnBdkQq8No"'] # User Tokens here. example 'token','token' | 'email:pass', 'token'
-DiscordChannel = '768250576853008414' # Channel ID,
+userToken = ['ew'] # User Tokens here. example 'token','token' | 'email:pass', 'token'
+DiscordChannel = '' # Channel ID,
 SpamSpeed = 0.7 # Changes how fast the messages are posted. (Anything under 0.7 tends to break it (┛✧Д✧))┛彡┻━┻ )
 textRandom = False # if the root has 'text.txt' it will pick a random text line and send it.
 textFull = False # Will send everything written in 'text.txt'
